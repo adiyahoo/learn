@@ -1,6 +1,6 @@
 
 fn send_ownership(nama: String) -> String { 
-    nama.to_string().replace("adi", "rhani")
+    nama.to_string().replace("adi", "jamal")
 }
 
 fn main() { 
