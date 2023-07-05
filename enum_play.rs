@@ -1,7 +1,7 @@
 use std::process::exit;
 
 const MAX_LEVEL: u8 = 10;
-const USER_BAN: [&str; 5] = ["adi", "rhani", "jamal", "agus", "amat"];
+const USER_BAN: [&str; 5] = ["adi", "kocak", "jamal", "agus", "amat"];
 
 #[allow(dead_code)]
 enum PlayerPos{
