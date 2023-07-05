@@ -31,7 +31,7 @@ fn main(){
     
     let pekerja2 = Pekerja {
         id: 2,
-        nama: String::from("rhani"),
+        nama: String::from("uyu"),
         umur: 15,
         total_absen: 128
     }; 
